@@ -2,7 +2,7 @@
 
 **Software Engineering (Information Systems) · Universiti Kebangsaan Malaysia · Seeking Internship**
 
-Third-year Software Engineering student at UKM building StayU — a verified, off-campus housing platform. I focus on full-stack development, structured system documentation, and clean, minimalist UI/UX design. I am currently in my "germination phase" as a developer—building a strong foundation in core programming while actively pivoting towards Software Automation. I am looking for a software engineering internship where I can learn industry-standard tools, contribute to a real development team, and grow in a production environment.
+Third-year Software Engineering student at UKM building StayU — a verified, off-campus housing platform for university students. I focus on full-stack development with Java and JavaScript, software testing, and structured system documentation. I am actively looking for a software engineering internship where I can contribute to a real development team and grow in a production environment.
 
 ### Tech Stack & Current Focus
 *   **Languages:** Java, JavaScript, HTML, CSS, SQL
