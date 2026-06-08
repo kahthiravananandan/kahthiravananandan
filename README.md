@@ -26,11 +26,6 @@ Final year Software Engineering student at UKM building StayU — a verified, of
 *   Drafted structured test cases and conducted foundational manual testing to cover functional and boundary scenarios.
 *   **Stack:** Java · JavaScript · HTML · CSS · SQL 
 
-### GitHub Stats
-![Kahthiravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahthiravananandan&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=gray)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahthiravananandan&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=gray)
-
 ### Let's Connect
 *   **Email:** [kahthiravananandan@gmail.com](mailto:kahthiravananandan@gmail.com)
 *   **LinkedIn:** [linkedin.com/in/kahthiravananandan](https://www.linkedin.com/in/kahthiravananandan)
