@@ -47,7 +47,7 @@ Full-stack platform connecting UKM students with verified landlords through prop
 
 ---
 
-### [UKM Sport Facility Booking System](https://github.com/harried101/Sport-Facilities-Booking-System) — Academic Group Project
+### [UKM Sport Facility Booking System](https://github.com/harried101/Sport-Facilities-Booking-System) 
 *Full-Stack Developer & QA*
 
 Web-based facility booking system built as part of a team. Handled both frontend and backend implementation, wrote structured test cases, and ran manual functional and boundary testing.
