@@ -43,11 +43,6 @@ Agile / Scrum · Full SDLC · Manual & Boundary Testing · Technical Documentati
 
 Full-stack platform connecting UKM students with verified landlords through property listings, search & filter, booking flows, and real-time chat.
 
-- Custom PHP 8 MVC architecture (front-controller routing, no framework)
-- Role-based access control across 3 roles — hardened with bcrypt, session ID regeneration, and HttpOnly / SameSite cookie flags
-- 10-table normalised MySQL schema + Firebase Realtime Database for live chat
-- Google Maps JavaScript API for property location search
-
 `PHP 8` `MySQL` `Firebase` `Google Maps API` `Vanilla JS`
 
 ---
