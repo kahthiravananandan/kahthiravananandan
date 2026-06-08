@@ -2,7 +2,7 @@
 
 Final-year **Software Engineering (Information Systems)** student at Universiti Kebangsaan Malaysia, building full-stack web applications from the ground up. Seeking a software engineering internship for **Aug – Dec 2026**.
 
-Currently building **[StayU](https://github.com/kahthiravananandan/stayu)** — a verified off-campus housing platform for UKM students, with a custom PHP MVC framework, dual-database architecture (MySQL + Firebase), and hardened session-based RBAC.
+Currently building **[StayU](https://github.com/kahthiravananandan/stayu)** - a verified off-campus housing platform for UKM students, with a custom PHP MVC framework, dual-database architecture (MySQL + Firebase), and hardened session-based RBAC.
 
 ---
 
@@ -38,7 +38,7 @@ Agile / Scrum · Full SDLC · Manual & Boundary Testing · Technical Documentati
 
 ## Projects
 
-### [StayU](https://github.com/kahthiravananandan/stayu) — Verified Off-Campus Accommodation Platform
+### [StayU](https://github.com/kahthiravananandan/stayu) - Verified Off-Campus Accommodation Platform
 *Final Year Project · Sole Developer · In Progress*
 
 Full-stack platform connecting UKM students with verified landlords through property listings, search & filter, booking flows, and real-time chat.
