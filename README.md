@@ -1,6 +1,6 @@
 # Hi, I'm Kahthiravan 
 
-Final-year **Software Engineering (Information Systems)** student at Universiti Kebangsaan Malaysia, building full-stack web applications from the ground up. Seeking a software engineering internship for **Aug – Dec 2026**.
+Final-year **Software Engineering (Information Systems)** student at Universiti Kebangsaan Malaysia, building full-stack web applications from the ground up. Seeking a software engineering internship for **Aug - Dec 2026**.
 
 Currently building **[StayU](https://github.com/kahthiravananandan/stayu)** - a verified off-campus housing platform for UKM students, with a custom PHP MVC framework, dual-database architecture (MySQL + Firebase), and hardened session-based RBAC.
 
