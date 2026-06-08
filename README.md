@@ -6,7 +6,7 @@ Currently building **[StayU](https://github.com/kahthiravananandan/stayu)** — 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -36,7 +36,7 @@ Agile / Scrum · Full SDLC · Manual & Boundary Testing · Technical Documentati
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### [StayU](https://github.com/kahthiravananandan/stayu) — Verified Off-Campus Accommodation Platform
 *Final Year Project · Sole Developer · In Progress*
