@@ -61,12 +61,12 @@ Web-based facility booking system built as part of a team. Handled both frontend
 
 ---
 
-## 📫 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kahthiravananandan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kahthiravananandan@gmail.com)
 
-📍 Bangi, Selangor, Malaysia
+Bangi, Selangor, Malaysia
 
 ---
 
